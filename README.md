@@ -1,6 +1,7 @@
 # Calcash
 
 Bem-vindo ao repositório do **Calcash**, uma ferramenta desenvolvida inteiramente em React.js e Node.js, projetada por Matheus Bomtempo e Thaian Ramalho. O Calcash é uma calculadora de percentual de lucro ideal para vendedores que atuam em plataformas como Mercado Livre, Shopee e Amazon.
+
 Experimente o Calcash acessando [https://calcash.com.br/](https://calcash.com.br/).
 
 ## Preview do Projeto
