@@ -6,7 +6,7 @@ Experimente o Calcash acessando [https://calcash.com.br/](https://calcash.com.br
 
 ## Preview do Projeto
 
-![Calcash App Preview](calcashft.jppg)
+![Calcash App Preview](calcashft.jpg)
 
 ## Sobre o Projeto
 
