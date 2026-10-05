@@ -12,7 +12,7 @@ A free profit and pricing calculator for sellers on **Mercado Livre**, **Shopee*
 ![Bilingual](https://img.shields.io/badge/i18n-PT--BR%20%7C%20EN-5850fe)
 ![License](https://img.shields.io/badge/license-ISC-38ae59)
 
-<img src="docs/img/home-en.png" alt="Calcash home page — dark theme with a glassmorphism calculator preview" width="860">
+<img src="home-en.png" alt="Calcash home page — dark theme with a glassmorphism calculator preview" width="860">
 
 </div>
 
