@@ -19,6 +19,7 @@ A free profit and pricing calculator for sellers on **Mercado Livre**, **Shopee*
 ---
 
 Source branch with code: https://github.com/thaianramalho/Calcash
+(Contributor repo)
 
 ## Why Calcash
 
