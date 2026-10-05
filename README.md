@@ -18,6 +18,8 @@ A free profit and pricing calculator for sellers on **Mercado Livre**, **Shopee*
 
 ---
 
+Source branch with code: https://github.com/thaianramalho/Calcash
+
 ## Why Calcash
 
 Every marketplace charges differently: a commission that changes by category or price bracket, a fixed fee per item, shipping rules, plus the invoice tax (NF-e) you owe on each sale. Pricing by gut feeling is how sellers end up **selling at a loss without noticing**.
